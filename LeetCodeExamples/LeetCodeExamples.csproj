@@ -36,6 +36,8 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Easy\TwoSum.cs" />
     <Compile Include="Easy\ReverseInteger.cs" />
+    <Compile Include="Easy\Palindrome.cs" />
+    <Compile Include="Easy\LongestCommonPrefix.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Easy\" />
