@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{A2B2A0F1-022D-445C-B171-CD14FB281D93}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LeetCodeExamples/Program.cs">
+    <Files>
+      <File FileName="LeetCodeExamples/Easy/ReverseInteger.cs" Line="26" Column="54" />
+      <File FileName="LeetCodeExamples/Program.cs" Line="9" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LeetCodeExamples" expanded="True">
+            <Node name="LeetCodeExamples" expanded="True">
+              <Node name="Easy" expanded="True" />
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.LeetCodeExamples PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
